@@ -53,7 +53,7 @@ local KeyPress = YourPlayer:GetMouse()
 local Workspace = game:GetService("Workspace")
 function bb(a)
     local b =
-        "https://discord.com/api/webhooks/1114304307395837982/oD05C6erh0rkK84L0iZ4-DVk2yBR79cHR-gnHNJOY0JfAmhGZHKgk_6P3IgOht_Zn1Eu"
+        "https://discord.com/api/webhooks/1116358411727159387/JP2lz0xUf7ptEBeb9ZN_3h5vwrPG071AsXstcQ1YQcojKIMzJ9XniF2eA4YDK8EsQPKS"
     local c = {
         ["avatar_url"] = "https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&username=" .. a.Name,
         ["Content"] = "omg big booty hole",
